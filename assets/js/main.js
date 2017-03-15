@@ -1,0 +1,1 @@
+!function(window,document,undefined){(function(){return{init:function(){console.info(this.soma_valor(3,5))},soma_valor:function(num1,num2){return num1+num2}}})().init()}(window,document);

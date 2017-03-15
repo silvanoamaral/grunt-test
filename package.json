@@ -1,0 +1,21 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "description": "Api dos pokemons",
+  "comment": "O package.json é um arquivo do Node.JS. Nele estarão algumas informações sobre o seu projeto e os plugins que o Grunt vai utilizar.",
+  "title": "Project Title",
+  "homepage": "http://www.yoursite.com.br",
+  "author": "Silvano Amaral",
+  "license": "ISC",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvanoamaral/grunt-test.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
